@@ -1,8 +1,8 @@
-# sdcweb.tk
+## Web Hosting Admin and Support Tools
 
 [Admin](#hosting-admin-tools) [Support](#hosting-support-tools)
 
-## Hosting Admin Tools
+### Hosting Admin Tools
 1. Google Domains: https://domains.google.com/registrar/
 2. Freehostia: https://www.freehostia.com/login/
     - Control Panel: https://cp.freehostia.com/
@@ -13,7 +13,7 @@
 7. Zoho Email Access: https://mail.zoho.com/
 8. Zoho Account Access: https://accounts.zoho.com/
 
-## Hosting Support Tools
+### Hosting Support Tools
 - MXToolbox: https://mxtoolbox.com/Public/Login.aspx
 - dmarcian: https://dmarcian.com/
 - DMARC Analyzer: https://app.dmarcanalyzer.com/
