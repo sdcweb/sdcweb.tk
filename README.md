@@ -1,8 +1,9 @@
-## Web Hosting Admin and Support Tools
+# Web Tools
 
 [Admin](#hosting-admin-tools) ~~~ [Support](#hosting-support-tools)
 
-### Hosting Admin Tools
+## Hosting Admin Tools
+
 1. [Google Domains](https://domains.google.com/registrar/)
 2. [Freehostia](https://www.freehostia.com/login/)
     - [Control Panel](https://cp.freehostia.com/)
@@ -14,7 +15,8 @@
     - [Zoho Email Access](https://mail.zoho.com/)
     - [Zoho Account Access](https://accounts.zoho.com/)
 
-### Hosting Support Tools
+## Hosting Support Tools
+
 - [MXToolbox](https://mxtoolbox.com/Public/Login.aspx)
 - [dmarcian](https://dmarcian.com/)
 - [DMARC Analyzer](https://app.dmarcanalyzer.com/)
