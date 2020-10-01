@@ -58,6 +58,7 @@ Whois and reverse whois for websites and IPs, ipv4 and ipv6 support.
 Simple reverse whois lookup.
 - [WhoIsHostingThis](https://www.whoishostingthis.com/){:target="_blank"} -
 Discover the host of any website, web host, IP, NS and more.
-- [WHOIS Search](https://who.is/){:target="_blank"}
+- [WHOIS Search](https://who.is/){:target="_blank"} -
+WHOIS Search, Domain Name, Website, and IP Tools.
 - [OpenDNS Cache Check](https://cachecheck.opendns.com/){:target="_blank"} -
 Check what OpenDNS customers see when they request a domain and refresh if needed.
