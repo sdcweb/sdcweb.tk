@@ -13,7 +13,7 @@ Free hosting provider with paid hosting plans.
 3. [Cloudflare](https://dash.cloudflare.com/){:target="_blank"} -
 DNS and CDN provider, free plan that cannot be matched by any competitors.
 4. [MXguarddog](https://mxguarddog.com/dc.dashboard/){:target="_blank"} -
-SPAM filtering service, received your emails, then forwards on to your mail server.
+SPAM filtering service, receives your emails, then forwards on to your mail server.
 5. [Freenom Domains](https://www.freenom.com/){:target="_blank"} -
 Registrar for free TLDs TK, ML, GA, CF and GQ.
 6. [Zoho Home](https://home.zoho.com/home){:target="_blank"} -
