@@ -62,3 +62,6 @@ Discover the host of any website, web host, IP, NS and more.
 WHOIS Search, Domain Name, Website, and IP Tools.
 - [OpenDNS Cache Check](https://cachecheck.opendns.com/){:target="_blank"} -
 Check what OpenDNS customers see when they request a domain and refresh if needed.
+
+## Partner Service Providers
+- MXGuarddog provides a <a href="http://mxguarddog.com/firewall/">Spam Firewall</a> that is easy to use and upgrades most default spam filters.
