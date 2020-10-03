@@ -71,4 +71,4 @@ Check what OpenDNS customers see when they request a domain and refresh if neede
 
 ## Partner Service Providers
 
-- [MXGuarddog](http://mxguarddog.com/") provides a filter for that is easy to use and upgrades most default spam filters.
+- [MXGuarddog](http://mxguarddog.com/) provides a filter for that is easy to use and upgrades most default spam filters.
