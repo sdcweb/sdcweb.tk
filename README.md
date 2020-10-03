@@ -4,68 +4,69 @@
 
 ## Hosting Admin Tools
 
-1. [Google Domains](https://domains.google.com/registrar/){:target="_blank"} -
+1. [Google Domains](https://domains.google.com/registrar/) -
 Registrar of choice for all paid domain names.
-2. [Google Analytics](https://analytics.google.com/analytics/web/){:target="_blank"} -
+2. [Google Analytics](https://analytics.google.com/analytics/web/) -
 A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand.
-3. [Google Search Console](https://search.google.com/search-console){:target="_blank"} -
+3. [Google Search Console](https://search.google.com/search-console) -
 Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results.
-2. [Freehostia](https://www.freehostia.com/login/){:target="_blank"} -
+2. [Freehostia](https://www.freehostia.com/login/) -
 Free hosting provider with paid hosting plans.
-    - [Control Panel](https://cp.freehostia.com/){:target="_blank"} -
+    - [Control Panel](https://cp.freehostia.com/) -
     Direct link to the hosting control panel.
-3. [Cloudflare](https://dash.cloudflare.com/){:target="_blank"} -
+3. [Cloudflare](https://dash.cloudflare.com/) -
 DNS and CDN provider, free plan that cannot be matched by any competitors.
-4. [MXguarddog](https://mxguarddog.com/dc.dashboard/){:target="_blank"} -
+4. [MXguarddog](https://mxguarddog.com/dc.dashboard/) -
 SPAM filtering service, receives your emails, then forwards on to your mail server.
-5. [Freenom Domains](https://www.freenom.com/){:target="_blank"} -
+5. [Freenom Domains](https://www.freenom.com/) -
 Registrar for free TLDs TK, ML, GA, CF and GQ.
-6. [ImprovMX](https://app.improvmx.com/login){:target="_blank"} -
-6. [Zoho Home](https://home.zoho.com/home){:target="_blank"} -
+6. [ImprovMX](https://app.improvmx.com/login) -
+Create free email aliases for your domain name.
+6. [Zoho Home](https://home.zoho.com/home) -
 Business tools suite with free plan.
-    - [Zoho EMail Control Panel](https://mailadmin.zoho.com/){:target="_blank"} -
+    - [Zoho EMail Control Panel](https://mailadmin.zoho.com/) -
     Email management page.
-    - [Zoho Email Access](https://mail.zoho.com/){:target="_blank"} -
+    - [Zoho Email Access](https://mail.zoho.com/) -
     Webmail access page.
-    - [Zoho Account Access](https://accounts.zoho.com/){:target="_blank"} -
+    - [Zoho Account Access](https://accounts.zoho.com/) -
     Account access page.
 
 ## Hosting Support Tools
 
-- [MXToolbox](https://mxtoolbox.com/Public/Login.aspx){:target="_blank"} -
+- [MXToolbox](https://mxtoolbox.com/Public/Login.aspx) -
 Comprehensive MX diagnostics plus numerous DNS tools.
-- [dmarcian](https://dmarcian.com/){:target="_blank"} -
+- [dmarcian](https://dmarcian.com/) -
 DMARC deployment tools.
-- [DMARC Analyzer](https://app.dmarcanalyzer.com/){:target="_blank"} -
+- [DMARC Analyzer](https://app.dmarcanalyzer.com/) -
 DMARC deployment tools.
-- [Root Zone Database](https://www.iana.org/domains/root/db){:target="_blank"} -
+- [Root Zone Database](https://www.iana.org/domains/root/db) -
 Delegation details of top-level domains.
-- [IANA WHOIS](https://www.iana.org/whois){:target="_blank"} -
+- [IANA WHOIS](https://www.iana.org/whois) -
 Top level WHOIS of domains.
-- [Google Public DNS Flush Cache](https://google-public-dns.appspot.com/cache){:target="_blank"} -
+- [Google Public DNS Flush Cache](https://google-public-dns.appspot.com/cache) -
 Flush your page cache from Google's public DNS servers.
-- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/){:target="_blank"} -
+- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) -
 PageSpeed Insights analyzes the content of a web page, then generates suggestions to make that page faster.
-- [Google Mobile Site Tester](https://www.thinkwithgoogle.com/feature/testmysite/){:target="_blank"} -
+- [Google Mobile Site Tester](https://www.thinkwithgoogle.com/feature/testmysite/) -
 Improve your mobile site to boost your business.
-- [BrowserStack](https://www.browserstack.com/accounts/profile){:target="_blank"} -
+- [BrowserStack](https://www.browserstack.com/accounts/profile) -
 App and browser testing on 2000+ real devices and browsers.
-- [GSuite Toolbox MX Check](https://toolbox.googleapps.com/apps/checkmx/){:target="_blank"} -
+- [GSuite Toolbox MX Check](https://toolbox.googleapps.com/apps/checkmx/) -
 MX checker with optional DKIM selector.
-- [DNS Propagation Check](https://dnsmap.io/){:target="_blank"} -
+- [DNS Propagation Check](https://dnsmap.io/) -
 Provides free dns lookup service for checking domain name server records against a randomly selected
 list of DNS servers in different corners of the world.
-- [BuiltWith](https://builtwith.com/){:target="_blank"} -
+- [BuiltWith](https://builtwith.com/) -
 Discover what websites are built with.
-- [Whois IP](https://myip.ms/){:target="_blank"} -
+- [Whois IP](https://myip.ms/) -
 Whois and reverse whois for websites and IPs, ipv4 and ipv6 support.
-- [Reverse Whois Lookup](https://viewdns.info/reversewhois/){:target="_blank"} -
+- [Reverse Whois Lookup](https://viewdns.info/reversewhois/) -
 Simple reverse whois lookup.
-- [WhoIsHostingThis](https://www.whoishostingthis.com/){:target="_blank"} -
+- [WhoIsHostingThis](https://www.whoishostingthis.com/) -
 Discover the host of any website, web host, IP, NS and more.
-- [WHOIS Search](https://who.is/){:target="_blank"} -
+- [WHOIS Search](https://who.is/) -
 WHOIS Search, Domain Name, Website, and IP Tools.
-- [OpenDNS Cache Check](https://cachecheck.opendns.com/){:target="_blank"} -
+- [OpenDNS Cache Check](https://cachecheck.opendns.com/) -
 Check what OpenDNS customers see when they request a domain and refresh if needed.
 
 ## Partner Service Providers
