@@ -6,6 +6,10 @@
 
 1. [Google Domains](https://domains.google.com/registrar/){:target="_blank"} -
 Registrar of choice for all paid domain names.
+2. [Google Analytics](https://analytics.google.com/analytics/web/){:target="_blank"} -
+A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand.
+3. [Google Search Console](https://search.google.com/search-console){:target="_blank"} -
+Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results.
 2. [Freehostia](https://www.freehostia.com/login/){:target="_blank"} -
 Free hosting provider with paid hosting plans.
     - [Control Panel](https://cp.freehostia.com/){:target="_blank"} -
@@ -16,6 +20,7 @@ DNS and CDN provider, free plan that cannot be matched by any competitors.
 SPAM filtering service, receives your emails, then forwards on to your mail server.
 5. [Freenom Domains](https://www.freenom.com/){:target="_blank"} -
 Registrar for free TLDs TK, ML, GA, CF and GQ.
+6. [ImprovMX](https://app.improvmx.com/login){:target="_blank"} -
 6. [Zoho Home](https://home.zoho.com/home){:target="_blank"} -
 Business tools suite with free plan.
     - [Zoho EMail Control Panel](https://mailadmin.zoho.com/){:target="_blank"} -
