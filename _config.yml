@@ -3,3 +3,5 @@ description: Home of SDC - Index of services and providers used by SDC for clear
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
+plugins:
+  - jekyll-target-blank
