@@ -70,4 +70,4 @@ WHOIS Search, Domain Name, Website, and IP Tools.
 Check what OpenDNS customers see when they request a domain and refresh if needed.
 
 ## Partner Service Providers
-- MXGuarddog provides a <a href="http://mxguarddog.com/firewall/">Spam Firewall</a> that is easy to use and upgrades most default spam filters.
+- MXGuarddog provides a filter for <a href="http://mxguarddog.com/">spam email</a> that is easy to use and upgrades most default spam filters.
