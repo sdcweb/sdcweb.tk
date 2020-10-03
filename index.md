@@ -4,31 +4,31 @@
 
 ## Hosting Admin Tools
 
-1. [Google Domains](https://domains.google.com/registrar/) -
+- [Google Domains](https://domains.google.com/registrar/) -
 Registrar of choice for all paid domain names.
-2. [Google Analytics](https://analytics.google.com/analytics/web/) -
+- [Google Analytics](https://analytics.google.com/analytics/web/) -
 A web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand.
-3. [Google Search Console](https://search.google.com/search-console) -
+- [Google Search Console](https://search.google.com/search-console) -
 Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results.
-2. [Freehostia](https://www.freehostia.com/login/) -
+- [Freehostia](https://www.freehostia.com/login/) -
 Free hosting provider with paid hosting plans.
-    - [Control Panel](https://cp.freehostia.com/) -
+  - [Control Panel](https://cp.freehostia.com/) -
     Direct link to the hosting control panel.
-3. [Cloudflare](https://dash.cloudflare.com/) -
+- [Cloudflare](https://dash.cloudflare.com/) -
 DNS and CDN provider, free plan that cannot be matched by any competitors.
-4. [MXguarddog](https://mxguarddog.com/dc.dashboard/) -
+- [MXguarddog](https://mxguarddog.com/dc.dashboard/) -
 SPAM filtering service, receives your emails, then forwards on to your mail server.
-5. [Freenom Domains](https://www.freenom.com/) -
+- [Freenom Domains](https://www.freenom.com/) -
 Registrar for free TLDs TK, ML, GA, CF and GQ.
-6. [ImprovMX](https://app.improvmx.com/login) -
+- [ImprovMX](https://app.improvmx.com/login) -
 Create free email aliases for your domain name.
-6. [Zoho Home](https://home.zoho.com/home) -
+- [Zoho Home](https://home.zoho.com/home) -
 Business tools suite with free plan.
-    - [Zoho EMail Control Panel](https://mailadmin.zoho.com/) -
+  - [Zoho EMail Control Panel](https://mailadmin.zoho.com/) -
     Email management page.
-    - [Zoho Email Access](https://mail.zoho.com/) -
+  - [Zoho Email Access](https://mail.zoho.com/) -
     Webmail access page.
-    - [Zoho Account Access](https://accounts.zoho.com/) -
+  - [Zoho Account Access](https://accounts.zoho.com/) -
     Account access page.
 
 ## Hosting Support Tools
@@ -70,4 +70,5 @@ WHOIS Search, Domain Name, Website, and IP Tools.
 Check what OpenDNS customers see when they request a domain and refresh if needed.
 
 ## Partner Service Providers
-- MXGuarddog provides a filter for <a href="http://mxguarddog.com/">spam email</a> that is easy to use and upgrades most default spam filters.
+
+- [MXGuarddog](http://mxguarddog.com/") provides a filter for that is easy to use and upgrades most default spam filters.
